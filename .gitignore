@@ -1,2 +1,4 @@
 
 backend/src/database/db.sqlite
+
+backend/src/database/test.sqlite
